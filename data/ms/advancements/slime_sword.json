@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:slime_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/slime_sword"
+    }
+}

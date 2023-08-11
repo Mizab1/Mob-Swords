@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " g ",
+        " c ",
+        " s "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:creeper_head"
+        },
+        "g": {
+            "item": "minecraft:gunpowder"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

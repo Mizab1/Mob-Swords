@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " t ",
+        " p ",
+        " s "
+    ],
+    "key": {
+        "p": {
+            "item": "minecraft:player_head"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        },
+        "t": {
+            "item": "minecraft:totem_of_undying"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

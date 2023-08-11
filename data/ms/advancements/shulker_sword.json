@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:shulker_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/shulker_sword"
+    }
+}

@@ -1,0 +1,44 @@
+// custom recipes,
+// custom textures,
+// custom models,
+// custom head Loot Table
+
+// 1. Enderman sword: tp after you hit the player 
+    // Increase the health of the player by 3 hearts
+// 2. Creeper sword: attacks the player with explosions 
+    // explosion resistance
+// 3. Shulker sword: gives levitation to the player
+    // give resistance effect
+// 4. Ender dragon sword: Create Dragon Breath where the player is standing or give very high knowback
+    // Increase the health of the player by 20 hearts
+    // Give Resistance
+    // Give Regeneration
+// 5. Wither sword: Give Wither effect
+    // Adds more health like 5 hearts
+    // Gives Resistance
+    // Fly like a Blaze
+// 6. Squid Sword: Give Blindness and smoke
+    // Dolphin effect and underwater breathing effect
+// 7. Blaze sword: Fire sword
+    // Fire resistance and sneak to fly like ironman suit
+// 8. Horse Sword: High knowback (less than dragon’s)
+    // Gives the player who hold this sword speed effect
+// 9. Evoker Sword: Summon an evoker frangs at the foots of the rival
+//     Spawns a totem on the left hand
+// 10. Slime Sword: Gives the enemy slowness effect when hit
+    // jump boost effect
+
+
+// CMD
+100001 = head_axe
+
+110001 = horse_sword
+110002 = creeper_sword
+110003 = enderman_sword
+110004 = shulker_sword
+110005 = wither_skeleton_sword
+110006 = slime_sword
+110007 = evoker_sword
+110008 = blaze_sword
+110009 = dragon_sword
+110010 = squid_sword

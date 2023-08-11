@@ -1,0 +1,3 @@
+#built using mc-build, Datapack By Mizab
+
+give @s diamond_sword{display:{Name:'{"text":"Horse Sword","color":"#ABD8FF","italic":false}'},CustomModelData:110001,AttributeModifiers:[{AttributeName:"generic.movement_speed",Name:"generic.movement_speed",Amount:0.1,Operation:0,UUID:[I;-1523225609,412306935,-1597740971,-15377870],Slot:"mainhand"}],HideFlags:1,Enchantments:[{id:"minecraft:knockback",lvl:3s}]} 1

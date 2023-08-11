@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:creeper_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/creeper_sword"
+    }
+}

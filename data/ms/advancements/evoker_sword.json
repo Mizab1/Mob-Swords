@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:evoker_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/evoker_sword"
+    }
+}

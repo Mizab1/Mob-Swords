@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " i ",
+        " p ",
+        " s "
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:ink_sac"
+        },
+        "p": {
+            "item": "minecraft:player_head"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

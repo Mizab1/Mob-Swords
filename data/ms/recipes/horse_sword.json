@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " h ",
+        " p ",
+        " s "
+    ],
+    "key": {
+        "h": {
+            "item": "minecraft:hay_block"
+        },
+        "p": {
+            "item": "minecraft:player_head"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

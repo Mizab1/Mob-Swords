@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:squid_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/squid_sword"
+    }
+}

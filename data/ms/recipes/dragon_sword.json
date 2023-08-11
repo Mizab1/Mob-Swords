@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " D ",
+        " d ",
+        " s "
+    ],
+    "key": {
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "d": {
+            "item": "minecraft:dragon_head"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

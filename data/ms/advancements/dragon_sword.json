@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "ms:dragon_sword"
+            }
+        }
+    },
+    "rewards": {
+        "function": "ms:recipes/dragon_sword"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " c ",
+        " w ",
+        " s "
+    ],
+    "key": {
+        "c": {
+            "item": "minecraft:coal_block"
+        },
+        "s": {
+            "item": "minecraft:stick"
+        },
+        "w": {
+            "item": "minecraft:wither_skeleton_skull"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " d ",
+        " p ",
+        " b "
+    ],
+    "key": {
+        "b": {
+            "item": "minecraft:blaze_rod"
+        },
+        "d": {
+            "item": "minecraft:diamond"
+        },
+        "p": {
+            "item": "minecraft:player_head"
+        }
+    },
+    "result": {
+        "item": "knowledge_book",
+        "count": 1
+    }
+}
